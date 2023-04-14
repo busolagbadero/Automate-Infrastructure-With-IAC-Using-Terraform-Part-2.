@@ -1195,4 +1195,49 @@ Enter values below in variable.tf file
 
             master-password = "admin12345"
             
- Run terraform plan to check error and run terraform apply -auto-approve to install all necessary rsources.
+ Run terraform plan to check error and run terraform apply to install all necessary resources.
+ 
+ 
+ 
+![sunday37](https://user-images.githubusercontent.com/94229949/231914291-c3bd784c-855d-4201-ba86-7c7da9114868.png)
+
+
+![sunday38](https://user-images.githubusercontent.com/94229949/231914335-7ed7e9ac-8275-4a4f-a68a-96640028c800.png)
+
+
+![sunday39](https://user-images.githubusercontent.com/94229949/231914350-221d0ef7-f04e-4d6a-92d6-c3f3715526d4.png)
+
+
+![sunday40](https://user-images.githubusercontent.com/94229949/231914573-1aa904e4-a646-4cfe-8409-28ddcb927d56.png)
+
+
+![sunday41](https://user-images.githubusercontent.com/94229949/231914584-a848a24e-ec55-4d3a-9864-9627e9dcbbde.png)
+
+
+![sunday42](https://user-images.githubusercontent.com/94229949/231914600-e4607238-5564-4b2f-95b4-bcf4f24862bf.png)
+
+![sunday49](https://user-images.githubusercontent.com/94229949/231914635-93ccde7f-db6c-403f-ab0a-99421d0beae5.png)
+
+![sunday48](https://user-images.githubusercontent.com/94229949/231914662-7c977a19-b035-464d-abef-754434dbb001.png)
+
+![sunday47](https://user-images.githubusercontent.com/94229949/231914692-a9d9ef3c-acc5-4c46-b80d-84a2880d457f.png)
+
+
+
+![sunday46](https://user-images.githubusercontent.com/94229949/231914709-b990c624-0d81-4fc5-aad9-abbdbc1fdaec.png)
+
+
+![sunday45](https://user-images.githubusercontent.com/94229949/231914726-5243735a-5f80-4738-bbbb-903498729994.png)
+
+
+![sunday44](https://user-images.githubusercontent.com/94229949/231914737-4486f9c4-001d-4866-a1d7-7efa722be229.png)
+
+
+![sunday58](https://user-images.githubusercontent.com/94229949/231914806-4becc065-2b4b-4cc2-b43d-794dec784dbd.png)
+
+
+![sunday57](https://user-images.githubusercontent.com/94229949/231914830-f8b3ed43-9c3b-4a19-899f-a1d7587701c0.png)
+
+![sunday56](https://user-images.githubusercontent.com/94229949/231914878-0132c2e6-8054-4875-a47d-8d1b4d9e3363.png)
+
+
